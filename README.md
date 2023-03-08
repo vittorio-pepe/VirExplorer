@@ -25,7 +25,7 @@ This repository contains the following:
 
 ## Previous version of VirExplorer video presentation
 
-VirExplorer was originally developed for my capstone project to classify genome sequences belonging to bacterias and thei viruses. Here following there is the link to the youTube video presentation of the project (13 min).
+VirExplorer was originally developed for my capstone project to classify genome sequences belonging to bacterias and their viruses. Here following there is the link to the youTube video presentation of the project (13 min).
 
 (https://youtu.be/pl0N43weySo "VirExplorer Video Presentation")
 
